@@ -1,0 +1,2 @@
+matplotlib==3.7.5
+mediapipe==0.10.11
